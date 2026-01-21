@@ -18,6 +18,3 @@ A creative web project where a fist gesture forms a heart using animated particl
 1. Clone the repository
 2. Open `index.html` in a browser
 3. Allow camera access
-
-## 📸 Demo
-![Gesture Controlled Heart Demo](assets/demo.gif)
