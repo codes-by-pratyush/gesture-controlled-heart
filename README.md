@@ -20,5 +20,4 @@ A creative web project where a fist gesture forms a heart using animated particl
 3. Allow camera access
 
 ## 📸 Demo
-https://github.com/codes-by-pratyush/gesture-particles/blob/main/assets/demo.mp4
-
+![Gesture Controlled Heart Demo](assets/demo.gif)
